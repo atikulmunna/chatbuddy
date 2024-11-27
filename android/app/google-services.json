@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924824354021",
+    "project_id": "cse299-chatting-app-back-e62f2",
+    "storage_bucket": "cse299-chatting-app-back-e62f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924824354021:android:5f3e4173f2407ecdfda80c",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVVamHB3RNL0F2zjZkdQtZ62vrxyDgeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
