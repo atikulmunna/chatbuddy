@@ -13,3 +13,6 @@
   <li>Group chat</li>
 </ul>
 
+## Resources
+You can download the APK file from [HERE](https://drive.google.com/file/d/1mVjsuFW9XfP-nmbUzBt_12nM1S-x2wbU/view?usp=drivesdk).
+
